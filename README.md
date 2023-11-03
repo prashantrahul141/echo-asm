@@ -12,7 +12,7 @@ To build from source you will need the following:
 - [gcc linker](https://gcc.gnu.org/)
 - [make](https://www.gnu.org/software/make/)
 
-Clone the repository 
+clone the repository:
 ```sh
 git clone https://github.com/prashantrahul141/echo-asm
 ```
@@ -20,6 +20,11 @@ git clone https://github.com/prashantrahul141/echo-asm
 then run make:
 ```sh
 make
+```
+
+then just run the `.out` file:
+```sh
+./echo.out
 ```
 
 If you want to cleanup build files, run:
